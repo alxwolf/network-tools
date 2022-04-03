@@ -26,7 +26,7 @@ This [python script](https://github.com/n-st/python-ula) will provide a unique, 
 Install with
 
 ```bash
-curl -Lo ula.py https://raw.githubusercontent.com/n-st/python-ula/master/ula.py
+curl -Lo ula.py https://raw.githubusercontent.com/n-st/python-ula/master/ula.py && chmod +x ula.py
 ```
 
 Run with
